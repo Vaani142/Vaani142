@@ -33,7 +33,7 @@ I love connecting mechanical logic to data patterns — it’s like debugging re
 ---
 
 ## Socials
-[LinkedIn](linkedin.com/in/vaani-tyagi-46875529b)  
+[LinkedIn](https://www.linkedin.com/in/vaani-tyagi-46875529b)  
 [Email](mailto:vaani14042@gmail.com)
 
 ---
@@ -52,16 +52,4 @@ I love connecting mechanical logic to data patterns — it’s like debugging re
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=CosmicCoder142&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=CosmicCoder142&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicCoder142&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[Visitor Count](https://visitcount.itsvg.in/api?id=CosmicCoder142&icon=0&color=0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+--
